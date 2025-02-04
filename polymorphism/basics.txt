@@ -1,0 +1,17 @@
+Polymorphism is one of the four pillars of Object-Oriented Programming (OOP). The word "polymorphism" comes from Greek, meaning "many forms". In programming, it refers to the ability of objects to take on multiple forms or behave differently based on the context. Polymorphism allows you to write more flexible and reusable code.
+
+Types of Polymorphism
+Polymorphism in C++ can be categorized into two main types:
+
+Compile-Time Polymorphism (Static Polymorphism)
+
+Achieved using function overloading and operator overloading.
+
+The decision about which function to call is made at compile time.
+
+Run-Time Polymorphism (Dynamic Polymorphism)
+
+Achieved using function overriding and virtual functions.
+
+The decision about which function to call is made at run time.
+
